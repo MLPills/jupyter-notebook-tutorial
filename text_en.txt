@@ -1,0 +1,3 @@
+This is just the first line of sample text.
+Jupyter Notebooks can access files relative to them.
+You can do this with any kind of data, such as json or images!
