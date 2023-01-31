@@ -2,8 +2,7 @@
 
 ![preview](images/preview.png)
 
-[English] A simple notebook that explains the basics of Jupyter Notebook
-[Español] Un sencillo notebook que explica las nociones básicas de los Jupyter Notebooks
+A simple notebook that explains the basics of Jupyter Notebook
 
 Please check our blog for more information: https://mlpills.dev
 
